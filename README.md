@@ -38,6 +38,7 @@ A collaborative real-time document sharing app built with the **MERN stack** (Mo
 git clone https://github.com/seemanali/Real-Time-Notes-Sharing-App-Mern---Stack-.git
 cd Real-Time-Notes-Sharing-App-Mern---Stack-
 
+```
 
 2. **Install Dependecies**
 
@@ -46,4 +47,4 @@ cd backend
 npm install
 cd ../frontend
 npm install
-
+```
