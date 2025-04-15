@@ -48,3 +48,36 @@ npm install
 cd ../frontend
 npm install
 ```
+   
+3. **Create environment variables in the backend folder:**
+
+Inside backend/, create a .env file and add:
+
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+```
+
+**▶️ Running the App**
+
+Start both backend and frontend using:
+
+```bash
+cd backend
+npm test
+```
+Then in seprate terminal :
+
+```bash
+cd frontend
+npm test
+```
+
+
+**🖥️ App Usage **
+
+    Open the browser and navigate to:
+    http://localhost:5173
+
+    Register or login to start creating and sharing notes in real-time!
