@@ -39,3 +39,11 @@ git clone https://github.com/seemanali/Real-Time-Notes-Sharing-App-Mern---Stack-
 cd Real-Time-Notes-Sharing-App-Mern---Stack-
 
 
+2. **Install Dependecies**
+
+```bash
+cd backend
+npm install
+cd ../frontend
+npm install
+
