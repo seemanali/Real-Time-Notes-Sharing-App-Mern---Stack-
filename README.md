@@ -23,3 +23,19 @@ A collaborative real-time document sharing app built with the **MERN stack** (Mo
 - **Authentication:** JWT (JSON Web Tokens)
 
 
+## 🧑‍💻 How to Download and Use This Code
+
+### 🛠️ Prerequisites
+
+- Node.js & npm installed
+- MongoDB (local or Atlas URI)
+
+### 📦 Installation Steps
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/seemanali/Real-Time-Notes-Sharing-App-Mern---Stack-.git
+cd Real-Time-Notes-Sharing-App-Mern---Stack-
+
+
