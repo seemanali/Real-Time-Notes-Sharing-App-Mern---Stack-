@@ -77,7 +77,9 @@ npm test
 
 **🖥️ App Usage **
 
-    Open the browser and navigate to:
-    http://localhost:5173
+Open the browser and navigate to:
+```bash
+http://localhost:5173
+```
 
-    Register or login to start creating and sharing notes in real-time!
+Register or login to start creating and sharing notes in real-time!
